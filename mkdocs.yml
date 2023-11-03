@@ -1,0 +1,8 @@
+site_name: "ThreeApi"
+site_description: "ThreeApi"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
