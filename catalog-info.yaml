@@ -9,7 +9,7 @@ metadata:
     backstage.io/kubernetes-id: "ThreeApi"
     backstage.io/kubernetes-namespace: "dev"
     prometheus.io/alert: all
-    vault.io/secrets-path: 'kubeos/dev/three-api'
+    vault.io/secrets-path: 'dev/three-api'
   tags:
     - dotnet
     - webapi
